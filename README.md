@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QinglinPan
-- 👀 I’m interested in Digital IC Implementation
-- 🌱 I’m currently learning Python and Perl
-- 💞️ I’m looking to collaborate on Business of IC design
+- 👀 I’m interested in Digital IC Front to End Implementation
+- 🌱 I’m currently learning Python, Perl, VIM, 
+- 💞️ I’m looking to collaborate on Business of IC Implementation,such as Genus and Conformal.
 - 📫 How to reach me wechat：pan0564865191
 
 <!---
