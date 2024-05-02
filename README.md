@@ -2,7 +2,6 @@
 - 👀 I’m interested in Digital IC Front to End Implementation
 - 🌱 I’m currently learning Python, Perl, VIM, 
 - 💞️ I’m looking to collaborate on Business of IC Implementation,such as Genus and Conformal.
-- 📫 How to reach me wechat：pan0564865191
 
 <!---
 Panbbbbbb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
