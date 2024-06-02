@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Panbbbbbb
-- 👀 I’m interested in Digital IC Front to End Implementation
-- 🌱 I’m currently learning Python, Perl, VIM, 
-- 💞️ I’m looking to collaborate on Business of IC Implementation,such as Genus and Conformal.
+- 👋 Hi, I’m @Weikaide
+- 👀 I’m interested in Web3 Project Development
+- 🌱 I’m currently learning Python, Perl, JS, RUST, docker
+- 💞️ I’m looking to collaborate on Web3 Project
 
 <!---
 Panbbbbbb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
